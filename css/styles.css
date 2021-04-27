@@ -77,6 +77,13 @@
     margin: 0 0 2em 0;
 }
 
+.icon-box:hover{
+    transform: translateY(-10%);
+}
+
+.footer svg:hover{
+    transform: translateY(-10%);
+}
 svg {
     margin: 0.75em;
 }
@@ -88,10 +95,6 @@ svg {
     margin-bottom: 1em;
 }
 
-.border {
-    border-style: solid;
-    border: black;
-}
 
 .body-box {
     margin: 0 2em 2em 2em;
